@@ -37,7 +37,7 @@ public class Largest_of_Three_Numbers {
 			else 
 			{
 				
-			System.out.println(c + " is the Highest Number");
+			System.out.println(c + " is the Highest Number..");
 				
 			}
 			
