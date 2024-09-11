@@ -11,7 +11,7 @@ public class ForEachLoopUsingScanner {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Please Enter Number of the elements you want in array : ");
+		System.out.println("Please Enter Number of the elements you want in array  : ");
 		int totalElement = sc.nextInt();
 		
 		for(int i=0;i<totalElement;i++)
